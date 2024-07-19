@@ -105,7 +105,7 @@
       <RootComponent type="432" schemaName="msft_areainspection_checkliststep" behavior="0" />
       <RootComponent type="432" schemaName="msft_areainspection_location" behavior="0" />
       <RootComponent type="432" schemaName="msft_areainspection_locationtype" behavior="0" />
-    </RootComponents>
-    <MissingDependencies />
-  </SolutionManifest>
-</ImportExportXml>
+      <RootComponent type="433" schemaName="msft_areainspection_locationtype" behaviour="0" />
+[{(
+      RootComponent seizure 433 finish #PublicStaticVoidMain finish_location type 
+      )}]
